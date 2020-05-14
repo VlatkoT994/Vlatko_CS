@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Domasna/1.0.0": {
+        "dependencies": {
+          "Modles": "1.0.0"
+        },
+        "runtime": {
+          "Domasna.dll": {}
+        }
+      },
+      "Modles/1.0.0": {
+        "runtime": {
+          "Modles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domasna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

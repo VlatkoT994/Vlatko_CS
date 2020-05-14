@@ -1,0 +1,8 @@
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\bin\Debug\netcoreapp3.1\Modles.deps.json
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\bin\Debug\netcoreapp3.1\Modles.dll
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\bin\Debug\netcoreapp3.1\Modles.pdb
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\obj\Debug\netcoreapp3.1\Modles.csprojAssemblyReference.cache
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\obj\Debug\netcoreapp3.1\Modles.AssemblyInfoInputs.cache
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\obj\Debug\netcoreapp3.1\Modles.AssemblyInfo.cs
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\obj\Debug\netcoreapp3.1\Modles.dll
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Modles\obj\Debug\netcoreapp3.1\Modles.pdb

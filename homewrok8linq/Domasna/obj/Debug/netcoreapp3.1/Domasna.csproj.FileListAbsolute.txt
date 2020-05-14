@@ -1,0 +1,14 @@
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.AssemblyInfoInputs.cache
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.AssemblyInfo.cs
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.exe
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.deps.json
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.runtimeconfig.json
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.runtimeconfig.dev.json
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.dll
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Domasna.pdb
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Modles.dll
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\bin\Debug\netcoreapp3.1\Modles.pdb
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.csprojAssemblyReference.cache
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.csproj.CopyComplete
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.dll
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\Seavus\Git\Vlatko_CS\homewrok8linq\Domasna\obj\Debug\netcoreapp3.1\Domasna.pdb
